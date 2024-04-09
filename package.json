@@ -1,6 +1,6 @@
 {
   "name": "coffee-listing-chalenge",
-  "homepage": "https://github.com/phacf/coffee-list-chalenge",
+  "homepage": "https://phacf.github.io/coffee-list-chalenge",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,12 +13,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
+    "gh-pages": "^6.1.1",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
